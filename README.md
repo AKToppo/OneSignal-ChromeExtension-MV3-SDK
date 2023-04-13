@@ -1,4 +1,4 @@
-# This SDK is no longer being updated and is slated for archival
+# In this fork SDK is modified to work with manifest version 3.
 
 OneSignal Chrome App Push Notification Plugin
 
