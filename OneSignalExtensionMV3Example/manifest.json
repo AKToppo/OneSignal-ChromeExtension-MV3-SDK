@@ -1,0 +1,11 @@
+{
+  "name": "OneSignal Extension Example",
+  "description": "OneSignal Push Notifications Example Chrome Extension.",
+  "manifest_version": 3,
+  "version": "1.0.3",
+  "background": {
+    "service_worker": "ServiceWorker.js"
+  },
+  "permissions": ["gcm", "storage", "notifications", "identity"],
+  "icons": { "128": "OneSignal_icon.png" }
+}
